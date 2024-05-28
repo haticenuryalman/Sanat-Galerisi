@@ -5,4 +5,6 @@ Sanat Galerisi Yönetim Sistemi
 
     
     
-    Dilerseniz projemi anlattığım videoyu yandaki linke tıklayarak izleyebilirsiniz: https://youtu.be/uSJ942098ec
+    Dilerseniz projemi anlattığım videoyu yandaki linke tıklayarak izleyebilirsiniz: 
+    
+    https://youtu.be/uSJ942098ec
